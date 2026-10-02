@@ -34,6 +34,10 @@ Counter updated by `BlocBuilder`:
 
 ![BlocBuilder](screenshots/phase2_builder_counter.png)
 
+Counter updated by `BlocConsumer`:
+
+![BlocBuilder](screenshots/phase2_consumer_counter.png)
+
 ## Phase 3 - Counter App
 
 - `CounterCubit` provided with `BlocProvider`
@@ -42,3 +46,4 @@ Counter updated by `BlocBuilder`:
 
 ![Dialog](screenshots/phase3_dialog.png)
 ![Consumer message](screenshots/phase3_consumer_message.png)
+![Consumer message](screenshots/phase3_consumer_message1.png)

@@ -23,6 +23,7 @@ CounterBloc and ThemeBloc handling two different types of state.
 
 ![Phase 1](screenshots/phase1_blocs.png)
 ![Phase 1 dark theme](screenshots/phase1_dark_theme.png)
+![Phase 1](screenshots/Phase1_video.mp4)
 
 ## Phase 2 - BlocListener, BlocBuilder and BlocConsumer
 
@@ -36,7 +37,7 @@ Counter updated by `BlocBuilder`:
 
 Counter updated by `BlocConsumer`:
 
-![BlocBuilder](screenshots/phase2_consumer_counter.png)
+![BlocConsumer](screenshots/phase2_consumer_counter.png)
 
 ## Phase 3 - Counter App
 
@@ -47,3 +48,4 @@ Counter updated by `BlocConsumer`:
 ![Dialog](screenshots/phase3_dialog.png)
 ![Consumer message](screenshots/phase3_consumer_message.png)
 ![Consumer message](screenshots/phase3_consumer_message1.png)
+![Phase 3](screenshots/Phase3_video.mp4)
